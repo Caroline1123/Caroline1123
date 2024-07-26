@@ -46,6 +46,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/Caroline1123/Caroline1123/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/Caroline1123/Caroline1123/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 
 ###
